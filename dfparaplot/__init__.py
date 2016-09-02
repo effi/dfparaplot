@@ -1,2 +1,1 @@
-from pplot import pplot
-
+from dfparaplot.pplot import pplot
